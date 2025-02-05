@@ -1,14 +1,48 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 51138 ***
+The Project Gutenberg EBook of De Koopman van Venetië, by William Shakespeare
 
-DE KOOPMAN VAN VENETIÃ«.
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: De Koopman van Venetië
+
+Author: William Shakespeare
+
+Translator: Dr. L.A.J. Burgersdijk
+
+Release Date: February 6, 2016 [EBook #51138]
+
+Language: Dutch
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DE KOOPMAN VAN VENETIË ***
+
+
+
+
+Produced by Jeroen Hellingman and the Online Distributed
+Proofreading Team at http://www.pgdp.net/ for Project
+Gutenberg.
+
+
+
+
+
+
+
+
+DE KOOPMAN VAN VENETIë.
 
 
 PERSONEN:
 
-    De Doge van VenetiÃ«.
+    De Doge van Venetië.
     De Prins van Marocco, }
     De Prins van Arragon, } dingende naar Portia's hand.
-    Antonio, de koopman van VenetiÃ«.
+    Antonio, de koopman van Venetië.
     Bassanio, zijn vriend.
     Solanio,  }
     Salarino, } vrienden van Antonio en Bassanio.
@@ -25,11 +59,11 @@ PERSONEN:
     Nerissa, haar kamerjuffer.
     Jessica, dochter van Shylock.
 
-    Senatoren van VenetiÃ«, Beambten van het gerechtshof, een
+    Senatoren van Venetië, Beambten van het gerechtshof, een
     Gevangenbewaker, Bedienden en verder Gevolg.
 
 
-Het stuk speelt gedeeltelijk te VenetiÃ«, gedeeltelijk te Belmont,
+Het stuk speelt gedeeltelijk te Venetië, gedeeltelijk te Belmont,
 het landgoed van Portia.
 
 
@@ -44,7 +78,7 @@ EERSTE BEDRIJF.
 EERSTE TOONEEL.
 
 
-VenetiÃ«. Een straat.
+Venetië. Een straat.
 
 Antonio, Salarino en Solanio komen op.
 
@@ -61,7 +95,7 @@ SALARINO. Uw geest wordt op den oceaan geslingerd,
 Waar uw galjoenen, fier het zeil in top,
 Als eed'len en grootburgers van de zee,
 Door statigheid hun hoogen rang verkonden
-En neerzien op de kleine handelsluÃ®,
+En neerzien op de kleine handelsluî,
 Die needrig buigend hem begroeten, als
 Zij langs hen vliegen met geweven vleug'len.
 
@@ -95,8 +129,8 @@ Neen, zeg maar niets; ik weet, Antonio
 Is somber, wijl hij aan zijn zaken denkt.
 
 ANTONIO. Geloof mij, neen, want, dank zij mijn geluk,
-Ik heb mijn goed niet aan Ã©Ã©n schip vertrouwd,
-Niet aan Ã©Ã©n plaats, en mijn vermogen hangt
+Ik heb mijn goed niet aan één schip vertrouwd,
+Niet aan één plaats, en mijn vermogen hangt
 Niet af van 't slagen in een enkel jaar;
 Daarom, 't is niet mijn handel, die me ontstemt.
 
@@ -105,7 +139,7 @@ SALARINO. Nu, dan zijt gij verliefd.
 ANTONIO.                             Foei, foei!
 
 SALARINO. Ook niet verliefd? Nu, dan, dan zijt ge treurig,
-Wijl gij niet vroolijk zijt, en zÃ³Ã³ kondt gij
+Wijl gij niet vroolijk zijt, en zóó kondt gij
 Ook lachen, springen, zeggend: "ik ben vroolijk,
 Wijl ik niet treurig ben." Bij Janus' dubb'len kop,
 Natuur brengt soms toch rare snuiters voort:
@@ -158,7 +192,7 @@ GRATIANO.           Ik speel dan den Nar.
 En laat, al drinkend, eer mijn lever schudden,
 Dan dat, door ach en wee, mijn hart verkilt.
 Waarom, als 't warme bloed nog stroomt, te zitten
-Als grootvaÃ¢rs marm'ren beeld? waartoe te slapen,
+Als grootvaârs marm'ren beeld? waartoe te slapen,
 Als 't wakenstijd is? en de geelzucht zich
 Op 't lijf te kniezen? Neen, Antonio, hoor,
 Ik heb u lief en zoo spreekt nu mijn liefde:
@@ -196,13 +230,13 @@ Dan van gerookte tong en van een schuchtre maagd.
 ANTONIO. Heeft hij daar nu iets ter wereld gezegd?
 
 BASSANIO. Gratiano praat oneindig veel, dat niets is, meer dan eenig
-mensch in geheel VenetiÃ«. Zijn verstandige gedachten zijn als twee
+mensch in geheel Venetië. Zijn verstandige gedachten zijn als twee
 tarwekorrels in twee schepels kaf; gij kunt er den geheelen dag naar
 zoeken, eer gij ze vindt; en als gij ze hebt, zijn ze de moeite van
 't zoeken niet waard.
 
 ANTONIO. Hoe 't zij, vertel mij nu, naar welke jonkvrouw
-Gij in 't geheim die beÃªvaart zwoert te doen,
+Gij in 't geheim die beêvaart zwoert te doen,
 Waarvan gij mij vandaag vertellen zoudt?
 
 BASSANIO. Antonio, 't is u al te wel bekend,
@@ -235,8 +269,8 @@ Gij gaaft mij veel, en, als een wilde knaap,
 Verloor ik wat gij gaaft, maar waagt gij 't nu,
 Een tweeden pijl denzelfden weg te schieten,
 Den eersten achterna, ik maak mij sterk,
-Daar ik zijn vlucht bespiÃª, ze beÃ® te vinden,
-Of breng, wat gij het laatste waagdet, weÃªr,
+Daar ik zijn vlucht bespiê, ze beî te vinden,
+Of breng, wat gij het laatste waagdet, weêr,
 En blijf uw dankb're schuldnaar voor het eerste.
 
 ANTONIO. Gij kent mij toch; wat spilt gij dan uw tijd,
@@ -252,7 +286,7 @@ BASSANIO. In Belmont woont een jonkvrouw, rijk in goedren,
 In schoonheid rijk, en, rijker nog dan dit,
 Ook rijk in deugden; uit haar oogen ving ik
 Reeds vroeger lieve stomme tijding op.
-Haar naam is Portia; ze is wedergÃ¢
+Haar naam is Portia; ze is wedergâ
 Van Cato's dochter, Brutus' Portia.
 De wereld door is reeds haar roem verbreid;
 Van 't uiterste eind der aard, van iedre kust,
@@ -269,7 +303,7 @@ Mijn hart, mijn ziel,--het hoogste heil verwachten.
 ANTONIO. Gij weet, mijn gansch vermogen is op zee;
 Ik heb geen geld en ook geen koopmansgoedren,
 Die ik verpanden kan; maar ga, beproef,
-Wat in VenetiÃ« mijn krediet vermag;
+Wat in Venetië mijn krediet vermag;
 Ik verg er 't uiterst van, om u naar eisch
 Voor Portia, naar Belmont, uit te rusten,
 Vraag na, waar geld beschikbaar is; ook ik
@@ -354,7 +388,7 @@ dat het zonde is een spotter te zijn, maar hij! Hij heeft een paard,
 beter dan de Napolitaan, een beter slechte gewoonte van zuurkijken
 dan de paltsgraaf; hij is iedereen en niemand; als een lijster zingt,
 begint hij dadelijk kapriolen te maken; hij zou kunnen vechten met zijn
-eigen schaduw. Als ik hÃ¨m nam, nam ik vijftig mannen te gelijk. Als
+eigen schaduw. Als ik hèm nam, nam ik vijftig mannen te gelijk. Als
 hij mij versmaadde, zou ik het hem vergeven; want al had hij mij lief
 tot razend wordens toe, ik zou niets van hem willen weten.
 
@@ -367,7 +401,7 @@ en wat mijn Engelsch betreft, gij kunt gerust voor het gerecht een
 eed gaan doen, dat het geen armzaligen duit waard is. Hij is het
 afbeeldsel van een knap man, maar, ik bid u, wie kan omgaan met een
 stom beeld? En hoe bespottelijk kleedt hij zich! Ik geloof, dat hij
-zijn kamizool in ItaliÃ«, zijn pof broek in Frankrijk, zijn muts in
+zijn kamizool in Italië, zijn pof broek in Frankrijk, zijn muts in
 Duitschland en zijn manieren overal heeft opgedaan.
 
 NERISSA. Wat denkt ge van zijn buurman, den Schotschen lord?
@@ -406,7 +440,7 @@ waart, dan door de bepaling van uw vader, ten opzichte van de kastjes.
 PORTIA. Al word ik zoo oud als Sibylla, wil ik toch zoo kuisch als
 Diana sterven, tenzij ik gewonnen word op de wijze van mijns vaders
 uitersten wil. Ik ben blij, dat dit partijtje vrijers zoo verstandig
-is, want er is er niet Ã©Ã©n bij of ik smacht naar zijn afzijn, en ik
+is, want er is er niet één bij of ik smacht naar zijn afzijn, en ik
 bid God, hun een voorspoedige heenreis te verleenen.
 
 NERISSA. Herinnert gij u niet, mejonkvrouw, uit den tijd dat uw vader
@@ -439,7 +473,7 @@ huidkleur van een duivel,
 
 Kom, Nerissa.--Knaap, ga voor, maak voort.--
 
-    Gaat Ã©Ã©n vrijer uit de poort,
+    Gaat één vrijer uit de poort,
     Dan wordt weer de stap van een ander, die nadert, gehoord.
 
 
@@ -451,7 +485,7 @@ Kom, Nerissa.--Knaap, ga voor, maak voort.--
 DERDE TOONEEL.
 
 
-VenetiÃ«. Een plein.
+Venetië. Een plein.
 
 Bassanio en Shylock komen op.
 
@@ -481,7 +515,7 @@ SHYLOCK. O, neen, neen, neen, neen;--maar ik meende, toen ik zeide,
 dat hij een goed man is, zooals ge wel begrijpt, dat hij er goed voor
 is,--hoewel van zijn goed kan men eigenlijk maar bij onderstelling
 spreken; hij heeft een galjoen op weg naar Tripoli, een ander naar
-IndiÃ«, en hij heeft, zooals ik op den Rialto vernam, een derde naar
+Indië, en hij heeft, zooals ik op den Rialto vernam, een derde naar
 Mexico, een vierde naar Engeland--en hij heeft nog meer varende
 have,--overal verspreid. Maar schepen zijn maar planken en matrozen
 zijn maar menschen, en er zijn landratten en waterratten, landdieven
@@ -511,7 +545,7 @@ SHYLOCK (ter zijde). Hoe lijkt hij een deemoedig tollenaar!
 Ik haat hem reeds, dewijl hij Christen is,
 En meer nog, wijl, in lage onnoozelheid,
 Hij gratis geld leent en de rente drukt,
-Die we anders in VenetiÃ« konden maken.
+Die we anders in Venetië konden maken.
 Gelukt het me eens, hem bij de heup te pakken,
 Dan vier ik de' ouden wrok, dien 'k heb, toch bot;
 Hij haat ons heilig volk, en vloekt, juist daar,
@@ -520,13 +554,13 @@ Op mij, mijn zaken en mijn eerlijk winstje;
 Dat noemt hij woeker. Zij mijn stam vervloekt,
 Als ik 't vergeef!
 
-BASSANIO.          HÃ©, Shylock, wilt gij hooren?
+BASSANIO.          Hé, Shylock, wilt gij hooren?
 
 SHYLOCK. Ik rekende uit, hoeveel ik wel in kas heb;
 Zoo ver ik uit het hoofd het ramen kan,
 Kan ik die volle somma van drieduizend
 Dukaten zelf niet leev'ren. Maar wat doet dit?
-Tubal, een rijk HebreÃ«r van mijn stam,
+Tubal, een rijk Hebreër van mijn stam,
 Zal mij wel helpen.--Maar voor hoeveel maanden
 Verlangt gij 't geld?--(Tot Antonio.) Signore, welkom hier;
 Wij spraken juist daar van uw edelheid.
@@ -654,7 +688,7 @@ Veel liever blijf ik nog in mijn ellend'.
 
 ANTONIO. Kom, vriend, geen angst; want ik betaal op tijd.
 In minder dan twee maanden, dus een maand
-VÃ³Ã³r ik 't behoef, verwacht ik schepen binnen,
+Vóór ik 't behoef, verwacht ik schepen binnen,
 In waarde tien-, ja, twintigmaal deez' som.
 
 SHYLOCK. O vader Abram! hoe de christnen toch,
@@ -680,7 +714,7 @@ Betrouwbaar is, maar spoedig ben ik bij u.
 
                                                            (Shylock af.)
 
-ANTONIO. Zoo haast u, goede jood.--Zie, deez' HebreÃ«r
+ANTONIO. Zoo haast u, goede jood.--Zie, deez' Hebreër
 Wordt waarlijk nog een christen; hij wordt goed.
 
 BASSANIO. 'k Vertrouw geen goedheid van een boos gemoed.
@@ -731,7 +765,7 @@ Slechts hem als echtgenoot te aanvaarden, die
 Mij op de wijze wint, die ik u noemde,
 Dan ware uw uitzicht, wijdvermaarde prins,
 Wel even schoon als dat van eenig ander,
-Die vÃ³Ã³r u naar mij dong.
+Die vóór u naar mij dong.
 
 MAROCCO.                  Reeds hiervoor dank.
 Ik bid u dus, geleid mij tot de kastjes,
@@ -763,7 +797,7 @@ MAROCCO. Ik zweer het, nimmer! Kom, de keus gewaagd!
 PORTIA. Neen, eerst uw eed voor 't altaar. Na den noen
 Beproeft ge uw lot.
 
-MAROCCO.            GelukstÃ¨r, toon uw macht,
+MAROCCO.            Gelukstèr, toon uw macht,
 Nu 't zaligst heil of diepste ellend' mij wacht!
 
                                              (Trompetgeschal. Allen af.)
@@ -774,7 +808,7 @@ Nu 't zaligst heil of diepste ellend' mij wacht!
 TWEEDE TOONEEL.
 
 
-VenetiÃ«. Een straat.
+Venetië. Een straat.
 
 Lancelot Gobbo komt op.
 
@@ -894,11 +928,11 @@ LANCELOT. Dan lijkt het wel, dat Hans zijn staartharen achteruit
 groeien; toen ik hem het laatst gezien heb, had hij bepaald meer
 haren in zijn staart dan ik nu op mijn gezicht heb.
 
-GOBBO. HeerejÃ©, wat ben je veranderd! En kun je met je meester nog al
+GOBBO. Heerejé, wat ben je veranderd! En kun je met je meester nog al
 overweg? Ik heb hem een present meegebracht. Hoe sta je tegenwoordig
 met elkaar?
 
-LANCELOT. ZÃ³Ã³, zÃ³Ã³,--; maar voor mijn part, daar ik het er op gezet
+LANCELOT. Zóó, zóó,--; maar voor mijn part, daar ik het er op gezet
 heb om van hem weg te loopen, zoo wil ik niet rusten, voor ik een heel
 eind achter de hielen heb. Mijn meester is een echte jood; hem een
 present brengen! geef hem een strop. Ik ben in zijn dienst verhongerd;
@@ -975,14 +1009,14 @@ Wat meer bestrikt dan de andre; let daarop.
 
 LANCELOT. Kom, vader.--Neen, ik kan geen dienst krijgen; wel neen,
 ik heb mijn tongetje niet tot mijn dienst.--Nu, (Hij bekijkt de
-binnenvlakte van zijn hand.) als er in ItaliÃ« iemand zoo'n mooie
+binnenvlakte van zijn hand.) als er in Italië iemand zoo'n mooie
 handpalm heeft om op de schrift te zweren! of ik ook geluk zal
 hebben!--Kijk eens, welk een onnoozel levenslijntje; 't is me daar
 een kleinigheidje vrouwen; acht, tien, vijftien vrouwen is nog niets:
 elf weduwen en negen jonge dochters is wel een onnoozel inkomen voor
-Ã©Ã©n man; en dan, driemaal bijna te verdrinken, en mijn leven haast
+één man; en dan, driemaal bijna te verdrinken, en mijn leven haast
 te verliezen aan den rand van een veerenbed;--dat noem ik er genadig
-afkomen! Ik moet zeggen, als Fortuin een vrouw is, dan is zij in dÃ t
+afkomen! Ik moet zeggen, als Fortuin een vrouw is, dan is zij in dàt
 opzicht een goeie meid.--Kom, vader; ik zal in een ommezientje klaar
 wezen met dat afscheidnemen van den jood.
 
@@ -1073,11 +1107,11 @@ Geef hem deez' brief, maar doe het in 't geheim;
 En nu vaarwel; ik wil niet, dat mijn vader
 Ons samen spreken ziet.
 
-LANCELOT. AtjÃ©!--tranen verlangen mijn tong.--Gij allerliefst
+LANCELOT. Atjé!--tranen verlangen mijn tong.--Gij allerliefst
 heidinneke, allerzoetst Jodinneke! Als een Christen niet voor schelm
 heeft gespeeld en uw hart gestolen, dan weet ik er niets meer van. Maar
-atjÃ©, deze bespottelijke druppels verdrinken mijn manlijkheid te
-veel; atjÃ©.
+atjé, deze bespottelijke druppels verdrinken mijn manlijkheid te
+veel; atjé.
 
                                                           (Lancelot af.)
 
@@ -1114,7 +1148,7 @@ SOLANIO. 't Moet puik in orde zijn, of 't is niets waard;
 En dan zij 't, dunkt mij, liever niet begonnen.
 
 LORENZO. Het is nog pas vier uur; wij hebben dus
-Nog twee uur vÃ³Ã³r ons.
+Nog twee uur vóór ons.
 
 (Lancelot komt op, met een brief.)
 
@@ -1151,7 +1185,7 @@ SALARINO. Goed, op mijn woord, ik maak het daad'lijk klaar.
 SOLANIO. Ik ook.
 
 LORENZO. En komt dan, na een uur zoo wat,
-Aan Gratiano's huis; daar vindt ge ons tweeÃ«n.
+Aan Gratiano's huis; daar vindt ge ons tweeën.
 
 SALARINO. 't Is goed, wij zullen komen.
 
@@ -1186,11 +1220,11 @@ Shylock en Lancelot komen op.
 
 SHYLOCK. Nu, gij zult zien, met eigen oogen zien,
 Hoe anders 't is bij Shylock en Bassanio;--
-HÃ©, Jessica!--voorwaar, gij zult bij hem
+Hé, Jessica!--voorwaar, gij zult bij hem
 Niet slapen, snorken, telkens kleeren scheuren!--
-HÃ©, Jessica, nog eens!
+Hé, Jessica, nog eens!
 
-LANCELOT.              HÃ©, Jessica!
+LANCELOT.              Hé, Jessica!
 
 SHYLOCK. Wie zeide u haar te roepen? 'k zei 't u niet.
 
@@ -1251,7 +1285,7 @@ Bij 't werk een slak, in 't slapen overdag
 Een wilde kat; ik wil geen hommels houden;
 En daarom ga hij heen, en ga hij heen
 Naar iemand, wien hij den geborgden buidel
-Moog' helpen leÃªgen.--Jessica, naar binnen;
+Moog' helpen leêgen.--Jessica, naar binnen;
 Misschien kom ik zoo daad'lijk wel terug;
 Doe wat ik zeide en sluit de deuren goed;
     "Een dichte kast, weert meen'gen gast;"
@@ -1306,7 +1340,7 @@ SALARINO. Daar komt Lorenzo;--later dus 't vervolg.
 
 LORENZO. Verschoont mij, lieve vrienden, dat ik toefde;
 'k Had veel te doen; dat draag' de schuld, niet ik.
-Maar is 't Ã¹w beurt eens om een vrouw te stelen,
+Maar is 't ùw beurt eens om een vrouw te stelen,
 Dan wacht ik even lang op u.--Komt hier;
 Hier woont mijn jodenvader.--Wie is thuis?
 
@@ -1356,7 +1390,7 @@ Verstandig is ze, als ik er iets van weet;
 En schoon is ze, als mijn oog mij niet bedriegt;
 En trouw is ze ook, dat heeft ze reeds getoond.
 En, zooals ze is, verstandig, schoon en trouw,
-Wordt zij mijn teÃªr en trouw beminde vrouw.
+Wordt zij mijn teêr en trouw beminde vrouw.
 
 (Jessica komt op, beneden.)
 
@@ -1406,7 +1440,7 @@ Dit derde, zwaar, van lood, met plomp vermaan:
 "Die mij verkiest, die wage en geve al wat hij heeft".
 Hoe weet ik nu, of ik het rechte kies?
 
-PORTIA. Slechts Ã©Ã©n er van bevat mijn beelt'nis, prins;
+PORTIA. Slechts één er van bevat mijn beelt'nis, prins;
 En kiest ge dat, dan ben ikzelf ook de uwe.
 
 MAROCCO. Een God bestuur' mijn oordeel dan! Laat zien;
@@ -1417,7 +1451,7 @@ Die geev'--voor wat? voor lood? hij waag' voor lood?
 't Is taal, die dreigt. En zij, die alles wagen,
 Doen dit op hoop van kostelijk gewin;
 Een gouden geest bukt niet naar schuim van erts;
-En Ã¬k geef niets en waag ook niets, voor lood.
+En ìk geef niets en waag ook niets, voor lood.
 Wat zegt het zilver, met zijn maagdeglans?
 "Die mij verkiest, erlangt zooveel als hij verdient".
 Zooveel als hij verdient!--Denk na, Marocco,
@@ -1437,17 +1471,17 @@ Maar toch, die spreuk van 't goud nog overwogen!
 Nu, dat 's de jonkvrouw; iedereen begeert haar,
 En iedre hoek der aard brengt pelgrims aan,
 Om 't sterflijk, aad'mend heiligbeeld te kussen.
-HyrcaniÃ«'s wouden, de onafzienbre vlakten
-Van 't woest ArabiÃ« zijn gebaande wegen
+Hyrcanië's wouden, de onafzienbre vlakten
+Van 't woest Arabië zijn gebaande wegen
 Voor vorsten thans, tot schoone Portia;
 Het rijk der waatren, dat met fiere kruinen
 Den hemel in 't gelaat spuwt, keert ze niet,
 Die zoo vermeet'le vreemden; neen, ze komen,
 Als door een beek, tot schoone Portia.--
-EÃ©n van deez' drie omsluit haar hemelsch beeld.
+Eén van deez' drie omsluit haar hemelsch beeld.
 Is 't denkbaar, dat haar lood omsluit?--'t Waar' lastring,
 Zoo iets te denken; 't lood is te verachtlijk
-Om zelfs in 't donkre graf haar wÃ¢ te ompants'ren.--
+Om zelfs in 't donkre graf haar wâ te ompants'ren.--
 Of is 't te denken, dat ze in zilver huist,
 Wel tienmaal minder waard dan 't loutre goud?
 O zondig denkbeeld! zulk een rijk juweel
@@ -1473,7 +1507,7 @@ Een opgerold geschrift?--Ik wil het lezen.
       Gulden graven zijn gebouwd,
       Waar de worm toch huis in houdt.
       Waart gij even wijs als stout,
-      Jong van leÃªn, van oordeel oud,
+      Jong van leên, van oordeel oud,
       't Afscheid hadt ge niet aanschouwd:
       Al uw gloed laat Portia koud."
     Koud voorwaar en moeite om niet;
@@ -1494,7 +1528,7 @@ Dat elk, die hem gelijkt, die keuze doe.
 ACHTSTE TOONEEL.
 
 
-VenetiÃ«. Een straat.
+Venetië. Een straat.
 
 Salarino en Solanio komen op.
 
@@ -1519,13 +1553,13 @@ Als van dien jood, dien hond, daar op de straat:
 "Mijn dochter!--Mijn dukaten!--O mijn dochter!--
 En met een christen!--O, mijn christ'lijke dukaten!--
 O recht en wet! mijn dochter! mijn dukaten!
-EÃ©n zak, twee zak, verzegeld, vol dukaten!
+Eén zak, twee zak, verzegeld, vol dukaten!
 Dubb'le dukaten;--en mijn dochter stal ze!
 Juweelen ook, twee steenen, kostbre steenen!
 Mijn dochter stal ze!--Rakkers, zoekt die deern!
 Mijn steenen heeft ze bij zich, mijn dukaten!"
 
-SALARINO. De straatjeugd van VenetiÃ« schreeuwt hem na:--
+SALARINO. De straatjeugd van Venetië schreeuwt hem na:--
 "Zijn steenen, zijn dukaten en zijn dochter!"
 
 SOLANIO. Als nu Antonio maar op tijd betaalt,
@@ -1545,7 +1579,7 @@ Maar niet te plotsling, want het mocht hem leed doen.
 SALARINO. Er is geen trouwer hart op aard; ik zag
 Bassanio's afscheid van Antonio.
 Bassanio zeide, dat hij spoed zou maken
-Om weÃªr te keeren; "Doe dat niet", was 't antwoord,
+Om weêr te keeren; "Doe dat niet", was 't antwoord,
 "Verbroddel niet om mij uw zaak, Bassanio.
 Neen, laat de tijd haar rijpen. Wat den schuldbrief
 Betreft, dien ik den jood geteekend heb,
@@ -1600,7 +1634,7 @@ Indien 't geluk me een juiste keus ontzegt,
 Hier niet te toeven maar terstond te gaan.
 
 PORTIA. Hiertoe verplicht zich elk bij eede, die
-Voor mijn onwaardig Ã¬k de kans komt wagen.
+Voor mijn onwaardig ìk de kans komt wagen.
 
 ARRAGON. Ik nam het op mij. Thans, Fortuin, vervul
 Mijn hartewensch!--Goud, zilver, waardloos lood!
@@ -1666,7 +1700,7 @@ ARRAGON.                        Wat staat hier?
       Gaat, laat dit genoeg u zijn."
       Grooter nar schijn ik mij toe,
       Als ik hier nog toeven doe.
-      EÃ©nen zotskop bracht ik mee,
+      Eénen zotskop bracht ik mee,
       En ik ga nu weg met twee.--
       Nu, vaarwel, ik houd mijn eed,
       Zal geduldig zijn in 't leed.
@@ -1680,7 +1714,7 @@ Zijn zij zoo wijs, door wijsheid te verliezen.
 NERISSA. Hoe goed het oude spreekwoord het toch wist!
 Wie hangt, wie huwt, wordt door het lot beslist.
 
-PORTIA. Kom, trek 't gordijn weÃªr toe, Nerissa.
+PORTIA. Kom, trek 't gordijn weêr toe, Nerissa.
 
 (Een Bediende komt op.)
 
@@ -1694,16 +1728,16 @@ Dat weldra zijn gebieder u begroet;
 Hij brengt van deze' u liefdevolle groeten,
 Behalve hoff'lijk schoone woorden, gaven
 Van hooge waarde; en nimmer zag ik nog
-Een liefdeboÃ´, zoo goed zijn boodschap waard;
+Een liefdeboô, zoo goed zijn boodschap waard;
 Want nooit kwam in April een dag zoo schoon,
 Om ons den fraaien zomer te voorspellen,
-Als deze boÃ´ vooraf zijn heer ons meldt.
+Als deze boô vooraf zijn heer ons meldt.
 
 PORTIA. Genoeg, ik bid u; ik begin te vreezen,
-Dat gij zoo daad'lijk zegt: "hij is mijn broÃªr:"
+Dat gij zoo daad'lijk zegt: "hij is mijn broêr:"
 Zoo feestlijk zijt ge in 't roemen van zijn lof.
 Nerissa, kom; 'k wil zien wie 't is, die zoo
-Zijn liefde ons meldt, reeds door zijn liefdeboÃ´.
+Zijn liefde ons meldt, reeds door zijn liefdeboô.
 
 NERISSA. Geef, liefdegod, het zij Bassanio!
 
@@ -1721,7 +1755,7 @@ DERDE BEDRIJF.
 EERSTE TOONEEL.
 
 
-VenetiÃ«. Een straat.
+Venetië. Een straat.
 
 Solanio en Salarino komen op.
 
@@ -1736,7 +1770,7 @@ begraven liggen, als moei Gerucht een eerlijk wijf is, waar men op
 aan kan.
 
 SOLANIO. Ik wou, dat ze in dit geval zoo'n leugenachtige klappei
-bleek, als er ooit Ã©Ã©n gember geknauwd heeft of haar buren heeft
+bleek, als er ooit één gember geknauwd heeft of haar buren heeft
 wijsgemaakt, dat ze treurde om den dood van haar derden man. Maar
 het is waar,--zonder in wijdloopigheid te vervallen en van den effen
 grooten weg van het gesprek af te wijken,--dat de goede Antonio,
@@ -1756,7 +1790,7 @@ een jood.
 
 (Shylock komt op.)
 
-Wel, Shylock, wat nieuws onder de koopluÃ®?
+Wel, Shylock, wat nieuws onder de koopluî?
 
 SHYLOCK. Gij wist, niemand zoo goed, niemand zoo goed als gij, van
 de vlucht van mijn dochter.
@@ -1842,7 +1876,7 @@ en dan nog andere kostelijke, kostelijke juweelen! Ik wou, dat mijn
 dochter dood voor mij lag en de juweelen in haar oor! ik wou, dat ze
 gekist lag aan mijn voeten en de dukaten in haar kist! Geen tijding
 van hen?--O, o! en dat zoeken heeft me al ik weet niet hoeveel gekost;
-och, schÃ¢ op schÃ¢! De dief met zÃ³Ã³veel weg, en dan zÃ³Ã³veel om den dief
+och, schâ op schâ! De dief met zóóveel weg, en dan zóóveel om den dief
 te vinden, en geen voldoening nog, geen wraak! en geen ongeluk gebeurt
 er, dat niet op mijn hoofd neerkomt, geen zuchten dan die ik slaak,
 geen tranen dan die ik vergiet!
@@ -1862,13 +1896,13 @@ gered zijn.
 SHYLOCK. Ik dank u, goede Tubal,--goede tijding, goede tijding;
 ha! ha!--Waar? In Genua?
 
-TUBAL. Uw dochter heeft in Genua, naar ik hoorde, op Ã©Ã©n avond tachtig
+TUBAL. Uw dochter heeft in Genua, naar ik hoorde, op één avond tachtig
 dukaten verdaan.
 
 SHYLOCK. Ge boort een dolk in mijn hart!--nooit zie ik mijn geld terug;
 tachtig dukaten zoo in eens! tachtig dukaten!
 
-TUBAL. Verscheiden schuldeischers van Antonio zijn met me naar VenetiÃ«
+TUBAL. Verscheiden schuldeischers van Antonio zijn met me naar Venetië
 gereisd; die zeggen, dat het niet anders kan, of hij moet over den
 kop gaan.
 
@@ -1886,9 +1920,9 @@ TUBAL. Maar met Antonio is het zeker mis.
 
 SHYLOCK. Ja, dat 's waar, dat 's zeker waar; ga, Tubal, huur een
 gerechtsdienaar voor me; bespreek hem een veertien daag vooruit; ik
-zal zijn hart hebben, als hij in gebreke blijft; want als hij VenetiÃ«
+zal zijn hart hebben, als hij in gebreke blijft; want als hij Venetië
 uit is, kan ik zaken doen, zooveel ik verkies; ga, ga, Tubal; we vinden
-elkaar weÃªr in onze synagoge; ga, goede Tubal; in onze synagoge, Tubal!
+elkaar weêr in onze synagoge; ga, goede Tubal; in onze synagoge, Tubal!
 
                                                             (Beiden af.)
 
@@ -1937,7 +1971,7 @@ Wat hoogverraad zich in uw liefde mengt.
 
 BASSANIO. Verraad? geen ander dan vreesachtigheid,
 Wantrouwen op 't verwerven van uw liefde;
-Want eerder leefden vuur en sneeuw in vreÃª,
+Want eerder leefden vuur en sneeuw in vreê,
 Dan dat verraad zich aan mijn liefde paarde.
 
 PORTIA. Thans ducht ik, dat ge als op de pijnbank spreekt,
@@ -1963,9 +1997,9 @@ Is waar en juist; mijn oog is dan de stroom,
 Zijn vochtig doodsbed. Maar hij kan ook winnen;
 En wat is dan muziek? Dan is muziek
 Als 't juub'len, waar een opgetogen volk
-Zijn pasgekroonden vorst meÃª groet, of als
+Zijn pasgekroonden vorst meê groet, of als
 De zoete tonen van den morgenstond,
-Die in des bruÃ®goms droomend oor weerklinken,
+Die in des bruîgoms droomend oor weerklinken,
 En hem ten huw'lijk roepen. Ziet, hij treedt,
 Niet minder fier, maar liefd'rijker van hart
 Dan jonge Alcides, toen hij de eed'le maagd,
@@ -2023,8 +2057,8 @@ Om wat men schoon gelooft, wie kent ze niet,
 Dat er natuur een ander hoofd mee sierde?
 De schedel, waar ze op groeiden, rust in 't graf.
 Zoo is dan sieraad slechts 't bedrieglijk strand
-Van zeeÃ«n vol gevaars, de schoone sluier,
-Een spookgestalte omhullend, in Ã©Ã©n woord,
+Van zeeën vol gevaars, de schoone sluier,
+Een spookgestalte omhullend, in één woord,
 Schijnwaarheid, tooisel van den sluwen tijd,
 Om wijzen te verschrikken.--Pronkrig goud,
 Gij harde Midaskost, u wil ik niet;
@@ -2037,7 +2071,7 @@ U kies ik;--dat mijn keuze vreugde zij!
 PORTIA. O, hoe elke andre hartstocht nu in lucht
 Verdwijnt, beklemdheid, bange twijfelzucht,
 En wanhoop en verbeten jaloezie!
-O, liefde! matig uw vervoering en gebiÃª
+O, liefde! matig uw vervoering en gebiê
 Dien stroom van vreugde kalmte; boven 't peil
 Verheft zij zich, ik voel 't; o, minder 't heil
 Of de overmaat is doodlijk!
@@ -2053,7 +2087,7 @@ En 't haar! De schilder weefde, een spin gelijk,
 Een gulden net, dat mannenharten vangt,
 Als muggen in een spinweb. Maar die oogen,
 Kon hij ze zien en schild'ren? Had hij 't een
-Gemaald, dan moest het, dunkt mij, beÃ® de zijne
+Gemaald, dan moest het, dunkt mij, beî de zijne
 Hem rooven en dus eenig blijven. Maar,
 Wat spreek ik? Al mijn lof blijft even ver
 Beneden deze schim, als deze schim
@@ -2101,7 +2135,7 @@ Voor leeren te oud is; nog gelukkiger,
 Dat zij voor 't leeren niet te stomp zich acht;
 Maar meest gelukkig, dat zij geest en hart
 Geheel en gaarne uw leiding toevertrouwt,
-Als aan haar gÃ¢, haar meester en haar vorst.
+Als aan haar gâ, haar meester en haar vorst.
 Ikzelf en al het mijne is thans uw deel,
 Geheel het uwe; 'k was tot nu gebiedster
 In huis en hof, meestresse van mijn dienaars,
@@ -2124,7 +2158,7 @@ Welsprekend zonder spraak;--verlaat deez' ring
 Deez' vinger ooit, o dan verliet mij 't leven,
 O, zeg dan vrij, Bassanio is niet meer.
 
-NERISSA. Nu, edel heer en vrouwe, is 't Ã²nze tijd,
+NERISSA. Nu, edel heer en vrouwe, is 't ònze tijd,
 Daar wij ons aller wensch zoo schoon vervuld zien,
 Te roepen: heil, heil, onze heer en vrouwe!
 
@@ -2142,7 +2176,7 @@ Mijn oog ziet even vlug als 't uwe rond;
 Gij zaagt de jonkvrouw, ik de dienares;
 Gij zwoert haar liefde, ik ook, want noodloos uitstel
 Vlijt mij al even weinig, heer, als u.
-Heel Ã¹w geluk hing van die kastjes af,
+Heel ùw geluk hing van die kastjes af,
 Maar ook het mijn', zooals het bleek; want toen
 Ik op haar aanhield, buiten adem schier,
 En liefde zwoer en zwoer, totdat mijn stem
@@ -2175,7 +2209,7 @@ En dan, mijn oude vriend Solanio?
 
 BASSANIO. Lorenzo en Solanio, welkom hier;
 Wanneer mijn aanzien hier, zoo jeugdig nog,
-U welkom heeten mÃ g.--'t Zij mij vergund,
+U welkom heeten màg.--'t Zij mij vergund,
 Dat ik mijn landgenooten, oude vrienden,
 Hier, Portia, welkom heet.
 
@@ -2195,7 +2229,7 @@ Zendt u zijn groete.
 (Hij geeft Bassanio een brief.)
 
 BASSANIO.            Eer ik den brief ontsluit,
-Vertel mij, is hij wÃ¨l, mijn waarde vriend?
+Vertel mij, is hij wèl, mijn waarde vriend?
 
 SOLANIO. Niet krank, heer, als hij 't in 't gemoed niet is;
 Niet wel, als zijne ziele lijdt; zijn brief
@@ -2205,7 +2239,7 @@ Doet u zijn toestand kennen.
 
 GRATIANO. Breng gij die vreemdlinge ook uw groet, Nerissa,
 En heet haar welkom.--Wel, Solanio,
-Wat nieuws brengt gij ons van VenetiÃ«? Is
+Wat nieuws brengt gij ons van Venetië? Is
 Die koopman-vorst, Antonio, welvarend?
 O, wis verheugt hij zich in ons geluk;
 Wij wonnen hier, als Jasons, 't gulden vlies.
@@ -2215,7 +2249,7 @@ SOLANIO. O, hadt gij 't vlies, dat hij geteekend heeft!
 PORTIA. Een kwade tijding brengt dat stuk papier,
 Daar 't aan Bassanio's wang de kleur ontrooft;
 Een dierbre vriend is dood, want om iets anders
-Zou toch een man, een man van moed, niet zÃ³Ã³
+Zou toch een man, een man van moed, niet zóó
 Ontstellen. Wat? 't wordt erger nog en erger?--
 Bassanio, vriend, ik ben uw wederhelft,
 En mij behoort de helft van alles, wat
@@ -2240,7 +2274,7 @@ En ieder woord is als een open wond,
 Waar 't leven uitstroomt.--Doch is 't waar, Solanio,
 Is alles dan mislukt, is niets gelukt?
 Van Tripoli, van Mexico, van England,
-Van Lissabon, van Barbarije en IndiÃ«?
+Van Lissabon, van Barbarije en Indië?
 Ontging geen schip de klippen, die zoo vaak
 Den hand'laar dood'lijk zijn?
 
@@ -2272,7 +2306,7 @@ BASSANIO. De dierbaarste, dien 'k heb, de beste mensch,
 Een eedle geest, trouwhartig, onvermoeibaar
 In 't weldoen, meer dan iemand; en een man,
 Wien meer de deugden van Oud-Rome sieren,
-Dan eenig man, die in ItaliÃ« leeft.
+Dan eenig man, die in Italië leeft.
 
 PORTIA. En hoeveel heeft de jood te vordren?
 
@@ -2284,12 +2318,12 @@ Verdubbel dat en verdriedubbel dit,
 Eer aan een vriend van zulk een stempel ooit
 Een haar gekrenkt wordt door Bassanio's schuld.
 Nu eerst onze' echtknoop in de kerk gelegd;
-En ijl dan naar VenetiÃ« tot uw vriend;
+En ijl dan naar Venetië tot uw vriend;
 Geen rustig leven aan mijn zijde, aleer
 Deze onrust uit uw ziel geweken is.
 Ik geef u goud, wel twintigmaal zooveel
 Als deze kleine schuld; betaal ze en breng
-Uw trouwen vriend hier met u meÃª. Nerissa
+Uw trouwen vriend hier met u meê. Nerissa
 En ik, wij zullen hier als vroeger leven,
 Als onbestorven weeuwtjes tevens. Ja,
 Ik drijf u op uw huw'lijksdag van hier;
@@ -2315,7 +2349,7 @@ PORTIA. O, liefste, spoed gemaakt en ijlings heen!
 BASSANIO. Ja, ijlen wil ik, daar uw goedheid mij
   Tot handlen machtigt; maar, totdat ik keer,
 Zal mij geen slaap vertragen; want ik vlij
-  VÃ³Ã³r ons terugzien niet ter rust mij neer.
+  Vóór ons terugzien niet ter rust mij neer.
 
                                                              (Allen af.)
 
@@ -2325,7 +2359,7 @@ Zal mij geen slaap vertragen; want ik vlij
 DERDE TOONEEL.
 
 
-VenetiÃ«. Een straat.
+Venetië. Een straat.
 
 Shylock, Solanio, Antonio en een Stokkeknecht komen op.
 
@@ -2396,7 +2430,7 @@ Portia, Nerissa, Lorenzo, Jessica en Balthazar komen op.
 LORENZO. Mejonkvrouw, laat mij 't in uw bijzijn zeggen:
 Gij toont een edel, echt en fijn gevoel,
 Dat vriendschap godd'lijk is, en dit blinkt uit,
-Door zoo het afzijn van uw gÃ¢ te dragen.
+Door zoo het afzijn van uw gâ te dragen.
 Maar wist ge, aan wien ge zulk een eer bewijst,
 Wat echten edelman gij hulpe zendt,
 Aan welk een waren vriend van uw gemaal,
@@ -2406,7 +2440,7 @@ Dan 't hart, gewoon om wel te doen, u dringt.
 PORTIA. Nooit heeft mij nog een goede daad berouwd,
 En deez' zal 't ook niet doen; want trouwe makkers,
 Die samen immer leven en verkeeren,
-Wier zielen saam Ã©Ã©n juk van vriendschap dragen,
+Wier zielen saam één juk van vriendschap dragen,
 Gelijk verdeeld, die moeten wel gelijk zijn
 In wezenstrekken, geest en wijs van doen;
 Dit doet mij denken, dat Antonio,
@@ -2419,7 +2453,7 @@ Maar dit begint naar eigen lof te zweemen;
 En dus genoeg hiervan; hoor nu iets anders.--
 Lorenzo, aan uw hand vertrouw ik toe
 't Beheer en de bezorging van mijn huis,
-Totdat mijn gÃ¢ terugkomt; want ikzelf
+Totdat mijn gâ terugkomt; want ikzelf
 Deed aan den hemel een gelofte, dat
 Ik in bespieg'ling en gebed zou leven,
 Slechts door Nerissa vergezeld, totdat
@@ -2455,9 +2489,9 @@ Naar Padua; en stel hem zelf aan doctor
 Bellario ter hand, mijn eed'len neef;
 En, hoor! wat hij van kleed'ren of papieren
 U geeft, breng dat met allen denkb'ren spoed
-Naar 't veer, waarmeÃª men van het vaste land
-VenetiÃ« bereikt; verlies geen tijd
-Met vragen, ga; ik ben daar nog vÃ³Ã³r u.
+Naar 't veer, waarmeê men van het vaste land
+Venetië bereikt; verlies geen tijd
+Met vragen, ga; ik ben daar nog vóór u.
 
 BALTHAZAR. Mejonkvrouw, 'k ga met de' aanbevolen spoed.
 
@@ -2465,7 +2499,7 @@ BALTHAZAR. Mejonkvrouw, 'k ga met de' aanbevolen spoed.
 
 PORTIA. Nerissa, kom; ik heb een plan in 't hoofd,
 Waarvan gij wel niet droomt, dat we onze mannen,
-En vÃ³Ã³r ze 't denken, zien.
+En vóór ze 't denken, zien.
 
 NERISSA.                    En zij ons ook?
 
@@ -2473,23 +2507,23 @@ PORTIA. Dat ook, Nerissa, maar in zulk een kleeding,
 Dat zij ons voor verheev'ner wezens achten,
 Dan vrouwen zijn. Ik wed om wat ge wilt,
 Dat, zijn we als jonge mannen uitgedoscht,
-Ik wel de knapste van ons tweeÃ«n ben,
+Ik wel de knapste van ons tweeën ben,
 En ook mijn degen met meer gratie draag,
 En als een knaap, die man wordt, spreek, als stak
 De baard mij in de keel; twee trippelpassen
-In Ã©Ã©n stap samenneem; van mijn duÃ«ls
+In één stap samenneem; van mijn duëls
 Gewaag, als een jong pocher; leugens zwets,
 Hoe eedle vrouwen naar mijn liefde dongen,
 En, daar ik koel bleef, zich verkniezend, stierven;
 Ik kon 't niet helpen,--maar heb toch berouw,
-En wensch, dat ik ze in 't leven weÃªr kon roepen;--
+En wensch, dat ik ze in 't leven weêr kon roepen;--
 Wel twintig zulke leugens zal ik zwetsen,
 Dat ieder zweert: ik ben al wel een jaar
 De school ontloopen;--duizend stukjes heb ik
 Van zulke bluffers in mijn hoofd en breng ze
 Wel aan den man.
 
-NERISSA.         ZÃ³Ã³ mannen na te gaan!
+NERISSA.         Zóó mannen na te gaan!
 
 PORTIA. O foei! wat zegt ge daar?
 Als dat een looze woordverdraaier hoorde!--
@@ -2515,7 +2549,7 @@ LANCELOT. Ja, waarlijk! want ziet ge, de zonden des vaders worden
 bezocht aan de kinderen; daarom, ik verzeker u, ben ik bang voor u. Ik
 ben altijd ronduit tegen u geweest, en zoo zeg ik nu ook mijn kompinie
 over de zaak; daarom, wees gerust, want waarachtig, ik geloof, dat gij
-verdoemd zijt. Daar is nog maar Ã©Ã©ne hoop, die u wat goed kan doen;
+verdoemd zijt. Daar is nog maar ééne hoop, die u wat goed kan doen;
 en dat is maar een soort van basterdhoop.
 
 JESSICA. En wat is dat dan voor een hoop, zeg?
@@ -2534,7 +2568,7 @@ JESSICA. Ik zal behouden worden door mijn man; die heeft me
 gechristend.
 
 LANCELOT. Daar is hij waarachtig niet beter om; er zijn er al genoeg
-van ons christenen; net maar zooveel als er met elkaÃ¢r het leven
+van ons christenen; net maar zooveel als er met elkaâr het leven
 kunnen hebben. Dat tot christenen maken zal de varkens duurder maken;
 als wij allemaal varkensvleesch-eters worden, zullen wij binnenkort
 voor nog zooveel geld geen reepje spek meer hebben in de pan.
@@ -2640,7 +2674,7 @@ VIERDE BEDRIJF.
 EERSTE TOONEEL.
 
 
-VenetiÃ«. Een gerechtzaal.
+Venetië. Een gerechtzaal.
 
 De Doge, de Senatoren, Antonio, Bassanio, Gratiano, Salarino, Solanio
 en anderen komen op.
@@ -2684,7 +2718,7 @@ Een deel hem schenken van de schuld, erbarmen
 Betoonend om de slagen, die sinds kort
 Zoo dicht zijn schouders troffen, zwaar genoeg
 Om zelfs een koopman-vorst ten val te brengen,
-En meÃªlij met zijn toestand af te dwingen
+En meêlij met zijn toestand af te dwingen
 Aan koop'ren boezems, harten hard als steen,
 Aan stugge Turken en Tataren, die
 Nog nooit uit menschlijkheid een dienst bewezen.
@@ -2724,7 +2758,7 @@ Dat uw wreedaardig drijven kan verschoonen.
 
 SHYLOCK. Moet ik dan antwoord geven naar uw zin?
 
-BASSANIO. Brengt iedereen dÃ t om, wat hem mishaagt?
+BASSANIO. Brengt iedereen dàt om, wat hem mishaagt?
 
 SHYLOCK. Wie haat dan iets, en brengt het niet graag om?
 
@@ -2753,7 +2787,7 @@ SHYLOCK. Was ieder der zesduizend stuks dukaten
 Zesmaal gedeeld en elk deel een dukaat,
 Ik nam ze niet; ik vergde toch mijn schuldbrief.
 
-DOGE. Hoopt ge op genÃ¢, gij, die er geen bewijst?
+DOGE. Hoopt ge op genâ, gij, die er geen bewijst?
 
 SHYLOCK. Wat vonnis zou ik duchten? 'k Doe geen onrecht.
 Gij hebt wel meen'gen duurgekochten slaaf,
@@ -2768,7 +2802,7 @@ Die slaven zijn gekocht.--Zoo zeg ik ook:
 Zie, dit pond vleesch, dat ik van hem verlang,
 't Is duur gekocht, 't is mijn, en ik wil 't hebben.
 Als gij het weigert, spuw ik op uw wet!
-Dan heeft hier in VenetiÃ« 't recht geen kracht!
+Dan heeft hier in Venetië 't recht geen kracht!
 Ik wacht op de uitspraak; antwoord! zal ik 't hebben?
 
 DOGE. Ik ben bevoegd de zitting op te heffen,
@@ -2807,7 +2841,7 @@ SHYLOCK. Om, wat mij toekomt, uit dien bankroetier te snijden.
 GRATIANO. Gij scherpt niet op uw zool, maar op uw ziel,
 Steenharde jood, uw mes; maar geen metaal,
 Neen, niet de bijl des beuls heeft half de scherpte
-Uws scherpen haats. Geen beÃª dringt in u door?
+Uws scherpen haats. Geen beê dringt in u door?
 
 SHYLOCK. Geen enkle, neen, die uw vernuft kan smeden.
 
@@ -2884,7 +2918,7 @@ PORTIA. Uw naam is Shylock?
 SHYLOCK.                    Shylock is mijn naam.
 
 PORTIA. Van vreemden aard is de eisch, dien gij hier doet,
-Maar in den vorm, zoodat VenetiÃ«'s wet
+Maar in den vorm, zoodat Venetië's wet
 Bij 't voeren van 't geding u niet kan wraken.--
 (Tot Antonio.) Gij zijt het, die bedreigd wordt door zijn eisch?
 
@@ -2918,7 +2952,7 @@ Behouden wordt; wij bidden om genade;
 En de eigen bede leert ons, zelf aan and'ren
 Genade te oef'nen. Hiermee dring ik aan,
 Dat gij de strengheid van uw eisch verzacht;
-Want, blijft ge er bij, dan moet VenetiÃ«'s hof
+Want, blijft ge er bij, dan moet Venetië's hof
 Zijn vonnis vellen tegen dezen koopman.
 
 SHYLOCK. Mijn daden op mijn hoofd; ik eisch de wet,
@@ -2936,13 +2970,13 @@ Verbuig voor eens nu 't recht door uw gezag;
 Om waarlijk recht te doen, pleeg luttel onrecht,
 En toom dien boozen duivel in zijn vaart.
 
-PORTIA. Dit mag niet zijn. Geen macht kan in VenetiÃ«
+PORTIA. Dit mag niet zijn. Geen macht kan in Venetië
 Een wettig vastgestelde wet verwringen;
 't Wierd aangehaald als voorbeeld voor 't vervolg;
 En menig misbruik vond, na zulk een voorgang,
 Wel ingang in den staat; het mag niet zijn.
 
-SHYLOCK. Een DaniÃ«l, die rechtspreekt! ja, een DaniÃ«l!--
+SHYLOCK. Een Daniël, die rechtspreekt! ja, een Daniël!--
 O wijze, jonge rechter, hoe 'k u eer!
 
 PORTIA. Ik bid u, laat mij eens den schuldbrief zien.
@@ -2953,7 +2987,7 @@ PORTIA. Shylock, men biedt u driemaal thans uw geld.
 
 SHYLOCK. Een eed, een eed, ik zond een eed ten hemel!
 En zou ik meineed laden op mijn ziel?
-Voor gansch VenetiÃ« niet.
+Voor gansch Venetië niet.
 
 PORTIA.                   Deez' schuld verviel;
 En 't stuk geeft aan den jood het recht, dat hij
@@ -3042,7 +3076,7 @@ Haar in den hemel, kon ze daar een macht
 Verbidden, die dien hondschen jood verkneedde.
 
 NERISSA. 't Is goed, dat gij dit in haar afzijn zegt:
-Uw wensch kon licht den vreÃª van 't huis verstoren.
+Uw wensch kon licht den vreê van 't huis verstoren.
 
 SHYLOCK (ter zijde). Zoo zijn de christenmannen;--'k heb een dochter,
 Maar had ze wien ook van Barabbas' stam
@@ -3065,8 +3099,8 @@ De woorden zijn uitdrukk'lijk: een pond vleesch.
 Neem dus uw schuldbrief, neem gij uw pond vleesch;
 Maar zoo, bij 't snijden, gij een drup vergiet,
 Een enklen druppel christenbloed, dan vallen
-Uw land en goedren, naar VenetiÃ«'s wet,
-Den staat VenetiÃ« toe.
+Uw land en goedren, naar Venetië's wet,
+Den staat Venetië toe.
 
 GRATIANO. O, eerlijk rechter! jood; een wijze rechter!
 
@@ -3095,11 +3129,11 @@ Dan juist een pond; want neemt ge meer of minder
 Dan juist een pond;--al waar' 't ook maar zooveel,
 Dat het gewicht te licht wordt of te zwaar,
 Een onderdeel zelfs van een twintigste
-Van Ã©Ã©nen scrupel;--slaat de weegschaal door,
+Van éénen scrupel;--slaat de weegschaal door,
 Ja, waar' 't ook slechts de breedte van een haar,--
 Dan sterft ge, en al uw goedren zijn verbeurd.
 
-GRATIANO. Een tweede DaniÃ«l! ja, een DaniÃ«l, jood!
+GRATIANO. Een tweede Daniël! ja, een Daniël, jood!
 Nu, ongedoopte hond, nu hebben we u.
 
 PORTIA. Wat draalt de jood nog? Neem, wat u verviel.
@@ -3111,7 +3145,7 @@ BASSANIO. Ik heb het geld voor u gereed; hier is 't.
 PORTIA. Hij heeft het openlijk voor 't hof versmaad;
 Zijn recht slechts zal hij hebben en zijn schuldbrief.
 
-GRATIANO. Een DaniÃ«l, zeg ik weer, een tweede DaniÃ«l!--
+GRATIANO. Een Daniël, zeg ik weer, een tweede Daniël!--
 Ik dank u, jood, voor 't leeren van dat woord.
 
 SHYLOCK. Krijg ik dan nu niet eens mijn hoofdsom weer?
@@ -3124,7 +3158,7 @@ Ik laat me er langer niet mee in.
 
 PORTIA.                           Blijf, jood;
 Het recht heeft nog iets anders van u te eischen.
-De wetten van VenetiÃ« stellen vast:--
+De wetten van Venetië stellen vast:--
 Als van een vreemdling te bewijzen is,
 Dat hij, 't zij rechtstreeks, 't zij op slinksche wijs,
 Een burger naar het leven heeft gestaan,
@@ -3135,7 +3169,7 @@ En 't leven van den schuldige berust
 In 's dogen hand, die niemands stem behoeft.
 Deze uitspraak, zeg ik, past geheel op u:
 't Is uit uw handling hier voor 't hof gebleken,
-Dat gij Ã¨n rechtstreeks Ã¨n op slinksche wijs
+Dat gij èn rechtstreeks èn op slinksche wijs
 Met overleg het leven hebt bedreigd
 Van den verweerder; en de strafbedreiging,
 Zoo even aangehaald, is hier van kracht.
@@ -3159,7 +3193,7 @@ Gij neemt mijn huis, als gij den steun mij neemt,
 Waar heel mijn huis op rust; gij neemt mijn leven,
 Als gij de midd'len neemt, waar ik door leef.
 
-PORTIA. En wat kan Ã¹w genade zijn, Antonio?
+PORTIA. En wat kan ùw genade zijn, Antonio?
 
 GRATIANO. Een strop voor niet; niets meer, om Gods wil, niets.
 
@@ -3215,14 +3249,14 @@ Wat aan den jood verschuldigd was, drieduizend
 Dukaten, voor uw edel hulpbetoon.
 
 ANTONIO. En blijven, als uw schuld'naars, bovendien
-Tot liefde en weÃªrdienst eeuwig u verplicht.
+Tot liefde en weêrdienst eeuwig u verplicht.
 
 PORTIA. Die weltevreden is, is welbetaald;
 Ik ben tevreden, dat ik u bevrijdde,
 En reken daardoor reeds mij welbetaald;
 Naar grooter loon heb ik nog nooit gestreefd.
-EÃ©n bede: ken me, als gij mij weer ontmoet;
-Ik wensch u heil, en hiermeÃª neem ik afscheid.
+Eén bede: ken me, als gij mij weer ontmoet;
+Ik wensch u heil, en hiermeê neem ik afscheid.
 
 BASSANIO. Zoo laten we u niet los, mijn waarde heer;
 Neem een gedacht'nis aan, maar als geschenk,
@@ -3242,7 +3276,7 @@ PORTIA. Ik wil niet anders hebben dan dien ring
 Hoe 't komt, ik weet niet, maar ik hecht er aan.
 
 BASSANIO. 't Is om de waarde niet, 't is om den ring;
-Den kostbaarste' in VenetiÃ« geef ik u,
+Den kostbaarste' in Venetië geef ik u,
 Dien openbare navraag vinden laat;
 Slechts deze' alleen, ik bid u, vraag dien niet.
 
@@ -3314,7 +3348,7 @@ Dien ik hem zweren deed nooit weg te schenken!
 
 PORTIA. Dat kunt gij wis; dat zal een zweren zijn,
 Dat zij aan mannen slechts hun ringen schonken;
-Doch we Ã²verkraaien, Ã²verzweren hen.--
+Doch we òverkraaien, òverzweren hen.--
 Maar ga, maak haast; gij weet, waar ik u wacht.
 
 NERISSA. Kom, waarde heer, wilt gij zijn huis mij wijzen?
@@ -3354,19 +3388,19 @@ En nam vol angst de vlucht.
 LORENZO.                    In zulk een nacht
 Stond Dido, in haar hand een wilgetak,
 Op 't woeste zeestrand, om haar lief te wenken,
-WeÃªr naar Carthago's kust.
+Weêr naar Carthago's kust.
 
 JESSICA.                   In zulk een nacht
 Las zich Medea tooverkruid en maakte
-Den ouden Ã†son jong.
+Den ouden Æson jong.
 
 LORENZO.             In zulk een nacht
 Verloor de rijke jood zijn Jessica,
-Die uit VenetiÃ« met een spilziek lief
+Die uit Venetië met een spilziek lief
 En heel naar Belmont vlood.
 
 JESSICA.                    In zulk een nacht
-Zwoer haar Lorenzo, dat hij teÃªr haar minde,
+Zwoer haar Lorenzo, dat hij teêr haar minde,
 En stal met meen'gen eed van trouw haar hart,
 Doch alle waren valsch.
 
@@ -3374,7 +3408,7 @@ LORENZO.                In zulk een nacht
 Bekladde Jessica, die kleine feeks,
 Haar zoetelief, maar hij vergaf het haar.
 
-JESSICA. Ik zou u Ã³ver-nachten, kwam er niemand;
+JESSICA. Ik zou u óver-nachten, kwam er niemand;
 Maar luister, 'k hoor den stap daar van een man.
 
 (Stefano komt op.)
@@ -3431,7 +3465,7 @@ En breng de muzikanten mee naar buiten.
 
 Wat slaapt het maanlicht lieflijk op dien heuvel!
 Hier zetten we ons, hier drinke ons oor de tonen
-Der hemelsche muziek; de vreÃª der nacht
+Der hemelsche muziek; de vreê der nacht
 Stemt met den klank van zoete harmonie.
 Kom, Jessica; zie, is het hemelwelf
 Niet ingelegd met schijfjes schitt'rend goud?
@@ -3518,7 +3552,7 @@ Dat, hoop ik, is vermeerderd door ons doen.
 Zijn ze al terug?
 
 LORENZO.          Tot nu toe niet, mejonkvrouw;
-Maar wel kwam hun alreeds een boÃ´ vooruit
+Maar wel kwam hun alreeds een boô vooruit
 Om aan te melden.
 
 PORTIA.           Ga in huis, Nerissa.
@@ -3562,14 +3596,14 @@ En 'k spaar dus hoff'lijkheid van louter lucht.
 
 GRATIANO. Ik zweer u bij de maan daar, dat ge dwaalt;
 Ik gaf hem, waarlijk aan des doctors klerk;
-En 'k woÃ», dat hij tot niets werd, die hem heeft,
+En 'k woû, dat hij tot niets werd, die hem heeft,
 Daar 't u, melieve, zoo ter harte gaat.
 
 PORTIA. Wat! reeds een twist? eilieve, zeg waarom?
 
 GRATIANO. 't Is om een strookje gouds, een kleinen ring,
 Dien zij mij gaf; met alledaagsche spreuk,
-Zoo van die messenmakerspoÃ«zie
+Zoo van die messenmakerspoëzie
 Op klingen: "wees mij trouw, begeef mij niet."
 
 NERISSA. Wat praat ge van de spreuk of van de waarde?
@@ -3614,7 +3648,7 @@ En heer en dienaar wilden maar niets anders
 Dan die twee ringen.
 
 PORTIA.              Welken ring stondt ge af,
-Mijn gÃ¢? Toch niet, naar 'k hoop, dien ik u gaf?
+Mijn gâ? Toch niet, naar 'k hoop, dien ik u gaf?
 
 BASSANIO. Kon ik een leugen voegen bij 't vergrijp,
 Ik zou ontkennen; maar gij ziet, ik heb
@@ -3700,7 +3734,7 @@ Dat ik u nimmermeer een eed verbreek.
 ANTONIO (tot Portia). Eens leende ik lijf en leven voor zijn heil;
 Slechts hij, die van uw man zijn ring verkreeg,
 Heeft mij gered; opnieuw waag ik gerust
-Mijn ziele te verpanden, dat uw gÃ¢
+Mijn ziele te verpanden, dat uw gâ
 Nooit, wetens willens, meer zijn eed verbreekt.
 
 PORTIA. Wees gij dus weer zijn borg; geef hem deez' ring,
@@ -3727,7 +3761,7 @@ Hier hebt ge een brief; lees dien maar later door;
 Hij komt van Padua, van Bellario;
 Daar zult gij zien, dat Portia was de doctor;
 Nerissa daar, zijn klerk; Lorenzo hier
-Getuig', dat ik terstond nÃ  u vertrok,
+Getuig', dat ik terstond nà u vertrok,
 Zoo juist terugkom en mijn huis nog niet
 Betreden heb.--Antonio, hartlijk welkom,
 Ik kan ook u een beter tijding brengen,
@@ -3773,7 +3807,7 @@ Wij geven u op alles klaar bescheid.
 GRATIANO. Ja, zij dat zoo; en de eerste vraag, die 'k stel,
 Nu ik Nerissa mag verhooren, is,
 Of zij dat lange waken uit kan staan,
-Of, twee uur vÃ³Ã³r den dag, ter rust wil gaan;
+Of, twee uur vóór den dag, ter rust wil gaan;
 Maar zeker zou ik, kwam de dag, dan vragen,
 Dat hij voor eens zijn dagen will' vertragen.
 Hoe 't zij, mijn leven lang zal ik geen ding
@@ -3790,7 +3824,7 @@ Zoo trouw bewaren als Nerissa's ring.
 AANTEEKENINGEN.
 
 
-Van "De Koopman van VenetiÃ«" verschenen in 1600 twee van elkander
+Van "De Koopman van Venetië" verschenen in 1600 twee van elkander
 onafhankelijke uitgaven, de eene bij James Roberts, de andere bij
 Thomas Heyes, waarvan de eerste reeds 28 October 1598 in de registers
 van het boekhandelaarsgilde werd ingeschreven. Het verschil tusschen
@@ -3801,13 +3835,13 @@ blijkt uit Francis Meres, die het in zijn Palladis Tamia noemt.--Een
 deel van Sh.'s werk, en wel het begin van het vijfde bedrijf, is
 nagebootst in een stuk Wily beguiled, van een onbekenden schrijver,
 dat in een geschrift van 1596 reeds vermeld wordt. Het is mogelijk,
-dat "De Koopman van VenetiÃ«" zelfs reeds een paar jaar vroeger
+dat "De Koopman van Venetië" zelfs reeds een paar jaar vroeger
 geschreven werd; in het dagboek van den schouwburg-directeur Henslowe
 wordt op 25 Augustus 1594 gewag gemaakt van een nieuwe Venetiaansche
 comedie, die opgevoerd werd op het tooneel te Newington. Toen werd
 het tooneel dezer voorstad gemeenschappelijk bespeeld door den troep
 van Henslowe en dien, waar Sh. deel van uitmaakte, en het is mogelijk,
-dat "De Koopman van VenetiÃ«" bedoeld is; de stijl en de versificatie
+dat "De Koopman van Venetië" bedoeld is; de stijl en de versificatie
 bevestigen, dat het stuk, zooal niet in 1594, dan toch zeker omstreeks
 dezen tijd is geschreven.
 
@@ -3821,7 +3855,7 @@ Sh. heeft voor dit stuk geput uit een middeleeuwsche, Latijnsche
 verzameling van verhalen of sprookjes, getiteld Gesta Romanorum. In
 het 99ste hoofdstuk,--dat reeds in 1577 uit deze verzameling door
 Robert Robertson in het Engelsch vertaald was,--komt de geschiedenis
-der drie kastjes voor. Een koning van ApuliÃ« zendt zijn dochter
+der drie kastjes voor. Een koning van Apulië zendt zijn dochter
 over zee naar Rome, om met den zoon des keizers te huwen. Zij lijdt
 schipbreuk, wordt door een walvisch verslonden, maar uit diens buik
 te voorschijn gehaald. De keizer ontvangt haar, verheugd over haar
@@ -3851,7 +3885,7 @@ zou mogen snijden, maar geen droppel bloeds vergieten.--De koopman
 wilde nu met de betaling van het geld genoegen nemen, maar dit werd
 hem geweigerd; hij ging heen zonder een penning te hebben ontvangen.
 
-In deze verhalen is er, zooals men ziet, nÃ²ch van een jood, nÃ²ch
+In deze verhalen is er, zooals men ziet, nòch van een jood, nòch
 van een vriendschap als die van Antonio voor Bassanio sprake. Deze
 twee bijzonderheden vindt men echter terug in een verhaal eener
 Italiaansche Novellenverzameling van Giovanni Florentino, onder
@@ -3864,14 +3898,14 @@ de schoone jonkvrouw van Belmonte, welke ieder, die daar landt,
 dwingt om de nacht op haar slot door te brengen, maar, zoo hij
 zich niet naar eisch gedraagt, en haar genegenheid niet kan winnen,
 hem van zijn schip en goederen berooft; wie de proef doorstaat, zal
-haar gemaal worden. Giannetto, op reis naar AlexandriÃ«, hoort van de
+haar gemaal worden. Giannetto, op reis naar Alexandrië, hoort van de
 schoone jonkvrouw, landt bij haar en tracht haar gunst te winnen, maar
 te vergeefs; door een zoeten wijn, die hem gereikt wordt, slaapt hij
-in. Van schip en goederen beroofd, keert hij naar VenetiÃ« terug. Hij
+in. Van schip en goederen beroofd, keert hij naar Venetië terug. Hij
 is ondertusschen door de jonkvrouw zoo betooverd, dat hij van zijn
 pleegvader een tweede, nog rijker bevracht schip afsmeekt, om naar haar
 hand te staan; hij slaapt weder in en keert nog berooider dan de eerste
-maal naar VenetiÃ« terug. Zijn vaderlijke vriend Ansaldo laat zich door
+maal naar Venetië terug. Zijn vaderlijke vriend Ansaldo laat zich door
 zijn beden bewegen hem voor de derde maal een schip uit te rusten,
 maar moet daartoe van een jood in Mestin 10000 dukaten leenen onder
 voorwaarde, dat de schuld op den eerstvolgenden Sint Jan betaald zal
@@ -3889,7 +3923,7 @@ minder dan een pond mocht nemen en geen druppel bloeds moest storten,
 zoodat de jood de schuldbekentenis in woede verscheurt; zij slaat de
 honderdduizend dukaten, die haar man den gewaanden rechter aanbiedt,
 af, maar noopt hem zijn trouwring af te staan; zij zorgt te huis te
-zijn vÃ³Ã³r haar man met Ansaldo er aankomt en neemt den schijn aan van
+zijn vóór haar man met Ansaldo er aankomt en neemt den schijn aan van
 recht verstoord te wezen op haar man, die zijn trouwring aan wie weet
 welke vrouw zou gegeven hebben, maar zij vertelt weldra, wie voor
 rechter gespeeld heeft, en zij leeft verder zeer gelukkig met haar man.
@@ -3904,7 +3938,7 @@ den jood van zijn vordering doet afzien.
 Men zie nu, wat Sh. uit deze gegevens wist te maken.
 
 Wil men zich rekenschap geven van de ligging van Belmonte, dan
-kan men zich dit zeer wel te StrÃ  denken, waar vele Venetianen hun
+kan men zich dit zeer wel te Strà denken, waar vele Venetianen hun
 landgoederen hadden, en dan kan Balthazar (III. 4. 53) Portia zeer
 goed aan het gewone veer (tragetto), dat ten tijde van Sh. te Fusino
 aan de monding der Brenta was, inhalen.
@@ -3914,7 +3948,7 @@ Semietischen oorsprong, misschien verbasterd van Sjelah (I Mos. X. 24),
 dat pijl beteekent [1]. Tubal en Chus (zie blz. 313, III. 2. 28)
 vindt men I Mos. X. 2 en 6; Jessica zal wel Jiskah zijn (I Mos. XI,
 29), wat uitkijkster beteekent, vergelijk IIde Bedrijf, 5. 33. De
-naam Gobbo komt in VenetiÃ« meer voor; op de Isola del Rialto is een
+naam Gobbo komt in Venetië meer voor; op de Isola del Rialto is een
 steenen figuur, die Gobbo di Rialto heet.
 
 
@@ -3946,8 +3980,8 @@ als een groot gebouw met open galerijen, waar de kooplieden tweemaal
 daags samenkwamen, 's morgens tusschen 11 en 12 en 's namiddags
 tusschen 5 en 6 uren.
 
-I. 3. 45. De rente in VenetiÃ«. Een Engelsch schrijver over ItaliÃ«
-(1561) zegt, dat de joden in VenetiÃ« zeer rijk werden, daar de gewone
+I. 3. 45. De rente in Venetië. Een Engelsch schrijver over Italië
+(1561) zegt, dat de joden in Venetië zeer rijk werden, daar de gewone
 rente, die zij bij het uitleenen van geld wisten te maken, vijftien
 ten honderd 's jaars bedroeg.
 
@@ -3955,7 +3989,7 @@ II. 1. 1. Om mijn kleur. In de oude uitgaven worden kleur en kostuum
 aangegeven: Enter Morochus a tawny Moor, all in white, and three or
 four followers accordingly.
 
-II. 1. 25. Den Sophi van PerziÃ« vermeldt Sh. ook in het blijspel
+II. 1. 25. Den Sophi van Perzië vermeldt Sh. ook in het blijspel
 Driekoningenavond een paar keer; Lichas, reg. 32, de ongelukkige
 dienaar van Hercules (Alcides), die aan zijn meester het noodlottig
 gewaad overbracht, dat hem duldelooze pijnen veroorzaakte, en die
@@ -4048,7 +4082,7 @@ Dit ziet op het blanketten, de valsche lokken volgen:
 Men zie hierover ook het Kostelick Mal van onzen Huygens, in 1622 te
 Londen voltooid.
 
-III. 4. 52. Breng, dat.... naar 't veer, waarmee men.... VenetiÃ«
+III. 4. 52. Breng, dat.... naar 't veer, waarmee men.... Venetië
 bereikt. Bring them.... Unto the traject, to the common ferry, which
 trades to Venice. Traiect (voor het zeker bedorven tranect gesteld)
 is geen zeer gewoon Engelsch woord, en wordt daarom verklaard; het
@@ -4067,7 +4101,7 @@ wordt. Diezelfde toespeling op het Christelijk geloof vindt men in Maat
 voor Maat, II. 2. 73. Het vervolg doelt blijkbaar op het Onze Vader.
 
 IV. 1. 247. De wet is duid'lijk; zin en woorden slaan Volkomen op
-de thans vervallen boete. De redeneeringen van den jeugdigen DaniÃ«l
+de thans vervallen boete. De redeneeringen van den jeugdigen Daniël
 zijn recht aardig gevonden en bereiken het doel volkomen, maar mogen
 wel eens nader bekeken worden. Een echt jurist, zou, dunkt mij,
 de schuldbekentenis ipso jure nul en nietig hebben verklaard, omdat
@@ -4082,14 +4116,14 @@ bij het in stukken snijden (in partes secare) van schuldenaars wordt
 opgemerkt, dat het op iets meer of iets minder niet aankomt: si plus
 minusve secuerit, sine fraude esto. Heeft dus Sh. dit niet bedacht,
 toen hij uit zijn bronnen deze tragische episode in zijn blijspel
-invlocht? Nog Ã©Ã©n vraag komt bij ons op. Bezigt hij het ontfutselen,
-onmiddellijk na de gerechtsscÃ¨ne, der huwelijksringen door Portia en
+invlocht? Nog één vraag komt bij ons op. Bezigt hij het ontfutselen,
+onmiddellijk na de gerechtsscène, der huwelijksringen door Portia en
 Nerissa, aan haar mannen, om in het vijfde bedrijf zijn toeschouwers na
 de geweldige spanning, waarin zij verkeerden, weder in de stemming van
 het blijspel terug te brengen? De wijze, waarop in den tegenwoordigen
 tijd de rol van Shylock wordt opgevat, moge dit doen denken, maar er
 is inderdaad alle reden om aan te nemen, dat deze opvatting niet de
-ware is, dat de dichter en zijn tijdgenooten in de gerechtsscÃ¨ne een
+ware is, dat de dichter en zijn tijdgenooten in de gerechtsscène een
 tooneel zagen, dat werkelijk geheel in een blijspel paste.
 
 Sh.'s tijdgenoot en vriend, de groote tooneelspeler Burbage, die Sh.'s
@@ -4103,14 +4137,14 @@ kostelijker. Zien wij, hoe Sh. den jood inderdaad gemeene trekken
 leende, deed wenschen, dat zijn dochter aan zijn voeten gekist lag,
 hem zijn mes op zijn schoenzool deed aanzetten, dan worden wij
 overtuigd, dat deze opvatting de ware is, dan zal de spanning bij
-de gerechtsscÃ¨ne nooit tot een tragische hoogte stijgen, want wij
+de gerechtsscène nooit tot een tragische hoogte stijgen, want wij
 weten vooraf, dat de jood, hoe dan ook, bedrogen zal uitkomen, dan
 zijn de gronden van den baardeloozen rechter, hoe sophistisch ook,
 inderdaad volkomen passend, eenvoudig omdat zij tot het doel voeren,
-dan vragen wij niet, of ooit in VenetiÃ« de rechtspraak zoo aan een
+dan vragen wij niet, of ooit in Venetië de rechtspraak zoo aan een
 vreemden rechtsgeleerde werd overgegeven, dan is de vroolijkheid,
 opgewekt door Shylocks en Gratiano's vermelding van den wijzen
-DaniÃ«l en door Bassanio's en Gratiano's wenschen, dat zij met hun
+Daniël en door Bassanio's en Gratiano's wenschen, dat zij met hun
 vrouwen Antonio's vrijheid konden koopen, volkomen op haar plaats,
 dan rillen wij niet bij de gedachte, dat de jood in zijn woede
 kan toestooten, dan is geen schrille tegenstelling tusschen het
@@ -4118,7 +4152,7 @@ gerechtstooneel en het vervolg. De dichter behoeft niet plotseling
 tot het blijspel terug te keeren, want hij is er nooit van afgeweken;
 dat hij er iets huiveringwekkends ingebracht heeft, was alleen om
 later de vroolijkheid nog te verhoogen, zooals,--de opmerking is van
-RÃ¼melin in zijn Shakespeare Studien--Sinterklaas en zijn knecht in
+Rümelin in zijn Shakespeare Studien--Sinterklaas en zijn knecht in
 de kinderkamer treden, om na een oogenblik van spanning den jubel
 des te grooter te maken.
 
@@ -4137,7 +4171,7 @@ worden, dat de jood, tot straf van zijn aanslag op Antonio, zich den
 doop moet laten toedienen. Een jood gruwt bij die gedachte, daarom
 werd deze boete aan Shylock niet gespaard; in een blijspel, dat zoo
 veel sprookjesachtigs heeft, kunnen wij ons dit zeer goed voorstellen,
-maar wanneer wij de gerechtsscÃ¨ne als een tooneel beschouwen, dat
+maar wanneer wij de gerechtsscène als een tooneel beschouwen, dat
 ons door tragischen ernst diep in de ziel moet grijpen, moet ons die
 eisch voorkomen als een profanatie van wat in veler oogen heilig is.
 
@@ -4174,6 +4208,367 @@ wordt; dan zou Shylock beteekenen: hij, die snijdt.
 
 
 
-End of Project Gutenberg's De Koopman van VenetiÃ«, by William Shakespeare
+End of Project Gutenberg's De Koopman van Venetië, by William Shakespeare
 
-*** END OF THE PROJECT GUTENBERG EBOOK 51138 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK DE KOOPMAN VAN VENETIË ***
+
+***** This file should be named 51138-8.txt or 51138-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/1/1/3/51138/
+
+Produced by Jeroen Hellingman and the Online Distributed
+Proofreading Team at http://www.pgdp.net/ for Project
+Gutenberg.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
